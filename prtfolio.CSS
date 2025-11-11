@@ -1,0 +1,45 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 80%;
+    margin: 20px auto;
+    background-color: aqua;
+    padding: 10px;
+}
+h1{
+    font-size: 40px;
+    color: blue;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+h2{
+    color: blueviolet;
+    border-bottom: 4px dotted red;
+    
+}
+p{
+    line-height: 2;
+    
+}
+span{
+    color: brown;
+    font-weight: bold;
+}
+ul{
+    list-style-type: none;
+    padding-left: 0;
+    margin-top: 10px;
+}
+.rubrik{
+    text-decoration: underline;
+}
+#projekt{
+    font-size: larger;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: aliceblue;
+}
+    
